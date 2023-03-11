@@ -1,0 +1,24 @@
+div.card-body {
+  background-color: #fff0ee;
+  padding: 1rem 1.5 rem;
+}
+
+h5.card-title {
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+button.btn {
+  background-color: #b10849;
+  border: #b10849;
+}
+
+button.btn:hover {
+  background-color: #63082b;
+  border: #63082b;
+}
+
+button.btn:focus {
+  background-color: #63082b;
+  border: #63082b;
+}
